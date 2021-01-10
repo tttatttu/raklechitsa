@@ -1,6 +1,7 @@
 # Perfect project by awesome team
 
-## [Посмотреть проект](https://prakt-rak-lechitsa.herokuapp.com)
+## [Благотворительный проект "Рак лечится"](https://prakt-rak-lechitsa.herokuapp.com) **
+** для просмотра проекта, кликните на название
 
 ## [Рекомендательное письмо](http://surl.li/grex)
 
