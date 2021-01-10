@@ -4,8 +4,8 @@
 
 ## [Рекомендательное письмо](http://surl.li/grex)
 
-### Стэк технологий:
 
+## Стэк технологий:
 
  * HTML
 
@@ -20,7 +20,7 @@
  * Git
 
 
-Developers:
+## Developers:
 
 https://github.com/SidorovN/
 
