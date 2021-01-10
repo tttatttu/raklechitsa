@@ -1,17 +1,13 @@
 # Perfect project by awesome team
 
-## [Посмотреть проект можно по ссылке:](https://prakt-rak-lechitsa.herokuapp.com)
-
-```
-  https://prakt-rak-lechitsa.herokuapp.com
-```
+## [Посмотреть проект](https://prakt-rak-lechitsa.herokuapp.com)
 
 ## [Рекомендательное письмо](http://surl.li/grex)
 
 ### Стэк технологий:
 
-```
- + HTML
+
+ * HTML
 
  * CSS
 
@@ -22,7 +18,7 @@
  * Nuxt.js
 
  * Git
-```
+
 
 Developers:
 
